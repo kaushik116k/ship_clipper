@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       width: 150,
                       height: 100,
                       decoration: BoxDecoration(
-                        color: Colors.white,
+                        color: Colors.blueGrey,
                         borderRadius: BorderRadius.circular(20),
                         boxShadow: [
                           BoxShadow(
@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 120,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(30),
-                    color: Colors.white,
+                    color: Colors.blueGrey,
                     boxShadow: [
                       BoxShadow(
                         color: Colors.grey,
